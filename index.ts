@@ -71,5 +71,6 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
+      console.log("Soy Sebastián Bachella");
   }
   main();
